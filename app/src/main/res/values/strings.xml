@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LayoutsAndroid</string>
+    <string name="name">Enter your name</string>
+    <string name="password">Enter your password</string>
+    <string name="submit">Submit</string>
+    <string name="constraintlayout_heading">Using ConstraintLayout</string>
+    <string name="tablelayout_heading">Using TableLayout</string>
+    <string name="linearlayout_heading">Using LinearLayout</string>
+    <string name="relativelayout_heading">Using RelativeLayout</string>
+    <string name="hello_android">Hello Welcome to the world of Android</string>
+    <string name="your_comments">Your comments please..</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_password">Your Password</string>
+
+</resources>
